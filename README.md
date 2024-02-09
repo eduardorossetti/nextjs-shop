@@ -5,3 +5,5 @@
 ### Adições
 
 - Configurando Stitches para estilização de componentes
+- Adicionado estilos globais
+- Adicionado estilização do cabeçalho
